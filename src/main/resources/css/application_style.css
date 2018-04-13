@@ -1,0 +1,25 @@
+.welcomeBannerThemeContainer {
+    -fx-background-image: url("../image/app_theme.jpg");
+    -fx-border-image-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.progressBarAppLoading {
+    -fx-accent: #268798;
+}
+
+.appThemeContainer {
+    -fx-background-image: url("../image/app_theme.jpg");
+    -fx-border-image-repeat: no-repeat;
+    -fx-background-size: contain;
+}
+
+.registrationProposalVBoxTheme {
+    -fx-background-image: url("../image/registration_proposal_vbox_theme.jpg");
+    -fx-border-image-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.textAreaSelectedAlreadySentWishText .text {
+    -fx-text-alignment: center;
+}
