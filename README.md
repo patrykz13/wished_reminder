@@ -23,7 +23,9 @@ formie (dzień urodzin/imienin, ilość dni do zbliżającej się rocznicy, data
 
 - JPA <br /> 
 
-- Apache Commons email API  <br /> 
+- Apache Commons email API  <br />
+
+- JAXB  <br /> 
 
 
 ### Wykorzystane narzędzia:
