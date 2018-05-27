@@ -11,10 +11,6 @@ formie (dzień urodzin/imienin, ilość dni do zbliżającej się rocznicy, data
 
 - Kamil Cieślik <br />
 
-- Kamil Sikora <br />
-
-- Arkadiusz Sokołowski <br />
-
 - Patryk Zdral <br />
 
 ### Wykorzystane technologie:
@@ -26,6 +22,9 @@ formie (dzień urodzin/imienin, ilość dni do zbliżającej się rocznicy, data
 - JavaFX <br /> 
 
 - JPA <br /> 
+
+- Apache Commons email API  <br /> 
+
 
 ### Wykorzystane narzędzia:
 
